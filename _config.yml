@@ -22,9 +22,9 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://www.instagram.com/niceandclean/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "https://www.instagram.com/parallelsea/"
+    - NiceandClean: "https://www.instagram.com/niceandclean/"
+    - Parrallelsea: "https://www.instagram.com/parallelsea/"
+  Author's home: "https://www.instagram.com/niceandclean/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -98,10 +98,10 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+# gtag: "UA-151752105-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-151752105-1"
 
 # Google Tag Manager ID
 #gtm: ""
