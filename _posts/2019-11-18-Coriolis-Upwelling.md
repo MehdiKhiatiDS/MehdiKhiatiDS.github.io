@@ -9,7 +9,7 @@ In some coastal areas of the ocean and large lakes, the combination of persisten
 
 The Coriolis effect also causes upwelling in the open ocean near the Equator. The wind patterns generated during slow-moving cyclones can also blow surface water aside, causing upwelling directly beneath the eye of the cyclone. The colder water eventually helps to weaken the cyclone.
 
-![Crepe](https://github.com/MehdiKhiatiDS/MehdiKhiatiDS.github.io/blob/master/img/clitoris.jpg){: .center-block :}
+![Crepe](/img/clitoris.jpg){: .center-block :}
 
 Whille of this is fascinating, The trick is I wanted to use data science to do this project where I'll try and simplify this active movements happening in our environment and showcase it to you, then use and train the data to do awesome machine learning like predicting water temperatures, steepness of waves, best fishing season, water quality and in couple iteration and with more model training, ultimately try to solve few problems of ocean pollution and spread awareness about what we could do to minimize the damage while finding ways to use this winds to maybe slowdown global warming while knowing somewhat exactly where and when the perfect surf is happening! 
 
