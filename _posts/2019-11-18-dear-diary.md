@@ -12,7 +12,8 @@ The Coriolis effect also causes upwelling in the open ocean near the Equator. Tr
 
 The wind patterns generated during slow-moving cyclones can also blow surface water aside, causing upwelling directly beneath the eye of the cyclone. The colder water eventually helps to weaken the cyclone.
 
-![Ughh](https://github.com/MehdiKhiatiDS/MehdiKhiatiDS.github.io/blob/master/img/ughh.jpg)
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 
 
