@@ -2,7 +2,7 @@
 layout: post
 title: You Don't like cold water don't you!
 subtitle: Coriolis & Upwelling effect simplified
-image: /img/ughh.jpg
+
 ---
 
 In some coastal areas of the ocean and large lakes, the combination of persistent winds, Earth's rotation (the Coriolis effect). Because of this rotation, winds tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon we and marine life see and feel on a daily basis! 
