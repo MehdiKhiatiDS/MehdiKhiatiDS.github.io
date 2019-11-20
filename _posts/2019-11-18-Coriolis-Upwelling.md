@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Don't like cold water dont't!
+title: You Don't like cold water dont't you!
 subtitle: Coriolis & Upwelling effect simplified
 ---
 
