@@ -5,11 +5,9 @@ title: Coriolis effect simplified!
 
 In some coastal areas of the ocean and large lakes, the combination of persistent winds, Earth's rotation (the Coriolis effect). Because of this rotation, winds tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon we and marine life see and feel on a daily basis! 
 
-![Crepe](https://github.com/MehdiKhiatiDS/MehdiKhiatiDS.github.io/blob/master/img/clitoris.jpg)
-
 The Coriolis effect also causes upwelling in the open ocean near the Equator. The wind patterns generated during slow-moving cyclones can also blow surface water aside, causing upwelling directly beneath the eye of the cyclone. The colder water eventually helps to weaken the cyclone.
 
-
+![Crepe](https://github.com/MehdiKhiatiDS/MehdiKhiatiDS.github.io/blob/master/img/clitoris.jpg){: .center-block :}
 
 Whille of this is fascinating, The trick is I wanted to use data science to do this project where I'll try and simplify this active movements happening in our environment and showcase it to you, then use and train the data to do awesome machine learning like predicting water temperatures, steepness of waves, best fishing season, water quality and in couple iteration and with more model training, ultimately try to solve few problems of ocean pollution and spread awareness about what we could do to minimize the damage while finding ways to use this winds to maybe slowdown global warming while knowing somewhat exactly where and when the perfect surf is happening! 
 
