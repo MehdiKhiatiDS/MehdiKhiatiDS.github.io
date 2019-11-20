@@ -2,7 +2,7 @@
 layout: post
 title: Crepes Galor
 subtitle: Growing up in Morocco
-gh-repo: daattali/beautiful-jekyll
+gh-repo: mehdikhiati.com
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
