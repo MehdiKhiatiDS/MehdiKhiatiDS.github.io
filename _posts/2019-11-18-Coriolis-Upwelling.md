@@ -31,10 +31,12 @@ github with all the code, functions and methods steps by steps!
 
 ### Increase of wind speed from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
-![NW](img/nnw.jpg){: .center-block :}
+
+![NW](img/nnw.jpg)
 
 ### SSW and NNW winds cause the highest water temperature variances! ###
-![NW](img/ssw.jpg){: .center-block :}
+![NW](img/ssw.jpg)
+
 
 ### October might be the best month to visit Southern California! ### 
 ###### Observing Water Temperature Variance Through 2018 ####### 
