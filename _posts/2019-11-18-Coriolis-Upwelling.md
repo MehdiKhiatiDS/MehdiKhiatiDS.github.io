@@ -15,7 +15,7 @@ Whille all of this is fascinating, The trick is I wanted to use data science to 
 
 Using facets grip from Seaborn we plotted wind direction and in effect on water temperature as we see the more the winds tends to gust from the north the waters get chillier and more nutritious. 
 
-### North West Winds, Good for Fishing, Surfing Not So Much! ###
+### North West Winds, Good for Fishing, Surfing, Not Quiet Much! ###
 ![Crepe](/img/year1seaborn.jpg){: .center-block :}
 ![Crepe](/img/seaboaryear2.jpg){: .center-block :}
 
@@ -26,9 +26,11 @@ During this bolg post I will focus on communicating my findings through visualiz
 ###### Observing Water Temperature Variance Through 2018 ####### 
 ![Crepe](/img/seaborn%20plot.jpg){: .center-block :}
 
-### October might be the best month to visit Southern California ### 
+### October might be the best month to visit Southern California! ### 
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
 
+After this EDA I will focus on the statistical side of things to start testing hypothesis.
+I cannort wait to share whats to come with you!
 I wanted to thank NASA, National Data Buoy Center, NOAA and National Geographic for the resouces and sources they provided to make this possioble.
 Links for articles and data I used will also be on github.
 
