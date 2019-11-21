@@ -36,7 +36,7 @@ I cannort wait to share whats to come with you!
 Sources: NASA, https://www.ndbc.noaa.gov, https://www.oceanmotion.org
 
 Links for articles and data I used will also be on github.
-https://colab.research.google.com/drive/1D5yUZ4NS3jRWT4Q0HXG58QFmlMVlKSVN#scrollTo=992LIq8aLtvl
+
 
 
 
