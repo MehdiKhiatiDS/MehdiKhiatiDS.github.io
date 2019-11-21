@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Crepes Galor
-subtitle: Growing up in Morocco
+title: Do we have Linear Regression!
+subtitle: Yes we do, or do we!
 gh-repo: mehdikhiati.com
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -14,7 +14,7 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 ## Ok now we about to AI this *itch!!
 
-Here's a useless table: Just kidding its my phone number for nerdy updates and hinge and all!
+Here's a useless table: Just kidding its not my phone number for nerdy updates and hinge and all!
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -24,30 +24,31 @@ Here's a useless table: Just kidding its my phone number for nerdy updates and h
 | Two | Three | One |
 
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-Here's a code chunk:
+Here's a code chunk, that will show you a quick tree install I did for diamonds classification!
+Pretty neat ay!
 
 ~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+!pip install graphviz
+!apt-get install graphviz
+
+import graphviz
+from sklearn.tree import export_graphviz
+
+dot_data = export_graphviz(model, out_file=None, feature_names=features, filled=True, rotate=True)
+graphviz.Source(dot_data)
 ~~~
 
 And here is the same code with syntax highlighting:
 
 ```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
+!pip install graphviz
+!apt-get install graphviz
+
+import graphviz
+from sklearn.tree import export_graphviz
+
+dot_data = export_graphviz(model, out_file=None, feature_names=features, filled=True, rotate=True)
+graphviz.Source(dot_data)
 ```
 
 And here is the same code yet again but with line numbers:
