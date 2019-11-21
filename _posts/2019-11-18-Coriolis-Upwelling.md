@@ -31,7 +31,7 @@ Using facets grip from Seaborn, I plotted wind direction correlating with water 
 
 github with all the code, functions and methods steps by steps! 
 
-### Increase of wind speed from NW tends to cool the water! ###
+### Increase of winds from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
 
 ![Crepe](/img/nnw.jpg){: .center-block :}
