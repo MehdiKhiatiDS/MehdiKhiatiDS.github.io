@@ -5,13 +5,12 @@ subtitle: Coriolis & Upwelling effect simplified
 
 ---
 
-In some coastal areas of the ocean and large lakes, the combination of persistent winds, Earth's rotation (the Coriolis effect). Because of this rotation, winds tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon we and marine life see and feel on a daily basis! 
+In some coastal areas of the ocean and large lakes, the combination of persistent winds and Earth's rotation (the Coriolis effect). Because of this rotation, winds tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon, We and marine life see and feel on a daily basis! 
 
-The Coriolis effect also causes upwelling in the open ocean near the Equator. The wind patterns generated during slow-moving cyclones can also blow surface water aside, causing upwelling directly beneath the eye of the cyclone. The colder water eventually helps to weaken the cyclone.
 
 ![Crepe](/img/clitoris.jpg){: .center-block :}
 
-Whille all of this is fascinating, The trick is I wanted to use data science to do this project where I'll try and simplify this active movements happening in our environment and showcase it to you, then use and train the data to do awesome machine learning like predicting water temperatures, steepness of waves, best fishing season, water quality and in couple iteration and with more model training, ultimately try to solve few problems of ocean pollution and spread awareness about what we could do to minimize the damage while finding ways to use this winds to maybe slowdown global warming while knowing somewhat exactly where and when the perfect surf is happening! 
+Whille all of this is fascinating, The trick is I wanted to use data science to do this project where I'll try and simplify this active movements happening in our environment and showcase it to you, then use and train the data to do predictive machine learning like predicting water temperatures, steepness of waves, best fishing season, water quality and in couple iteration, with more model training, ultimately try to solve few problems of ocean pollution and spread awareness about what we could do to minimize the damage while finding ways ustilizing this winds, to maybe slowdown global warming while knowing some what exactly where and when the perfect surf is happening! 
 
 Using facets grip from Seaborn we plotted wind direction and in effect on water temperature as we see the more the winds tends to gust from the north the waters get chillier and more nutritious. 
 
