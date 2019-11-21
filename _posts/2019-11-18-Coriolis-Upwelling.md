@@ -31,8 +31,14 @@ During this bolg post I will focus on communicating my findings through visualiz
 
 After this EDA I will focus on the statistical side of things to start testing hypothesis.
 I cannort wait to share whats to come with you!
-I wanted to thank NASA, National Data Buoy Center, NOAA and National Geographic for the resouces and sources they provided to make this possioble.
+
+
+Sources: NASA, https://www.ndbc.noaa.gov, https://www.oceanmotion.org
+
 Links for articles and data I used will also be on github.
+https://colab.research.google.com/drive/1D5yUZ4NS3jRWT4Q0HXG58QFmlMVlKSVN#scrollTo=992LIq8aLtvl
+
+
 
 
 
