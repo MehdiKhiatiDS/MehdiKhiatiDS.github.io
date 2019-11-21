@@ -18,7 +18,7 @@ Pandas, Matplotlib and Seaboarn were the libraries for EDA and visualization.
 In some coastal areas of the ocean and large lakes, the combination of persistent winds and Earth's rotation (the Coriolis effect) creates winds that tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon, We and marine life see and feel on a daily basis! 
 While this has a big impact on marine life, global warming, fishing industry, local economies and social behavior, I will focus on showcasing the correlation between wind direction and intensity with water temperature variance. 
 
-![Crepe](/img/ssw.jpg){: .center-block :}
+
 
 
 Using facets grip from Seaborn, I plotted wind direction correlating with water temperature by month as we see the more the winds tends to gust from the north the water gets colder. 
@@ -33,10 +33,10 @@ github with all the code, functions and methods steps by steps!
 ### Increase of wind speed from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
 
-![NW](img/nnw.jpg)
+![Crepe](img/nnw.jpg){: .center-block :}
 
 ### SSW and NNW winds cause the highest water temperature variances! ###
-![NW](img/ssw.jpg)
+![Crepe](/img/ssw.jpg){: .center-block :}
 
 
 ### October might be the best month to visit Southern California! ### 
