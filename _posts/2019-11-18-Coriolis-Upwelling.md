@@ -12,7 +12,7 @@ In some coastal areas of the ocean and large lakes, the combination of persisten
 
 Whille all of this is fascinating, The trick is I wanted to use data science to do this project where I'll try and simplify this active movements happening in our environment and showcase it to you, then use and train the data to do predictive machine learning like predicting water temperatures, steepness of waves, best fishing season, water quality and in couple iteration, with more model training, ultimately try to solve few problems of ocean pollution and spread awareness about what we could do to minimize the damage while finding ways ustilizing this winds, to maybe slowdown global warming while knowing some what exactly where and when the perfect surf is happening! 
 
-Using facets grip from Seaborn, we plotted wind direction correlating with water temperature as we see the more the winds tends to gust from the north the water get chillier and more nutritious. 
+Using facets grip from Seaborn, I plotted wind direction correlating with water temperature as we see the more the winds tends to gust from the north the water get chillier and more nutritious. 
 
 ### North West Winds, Good for Fishing, Surfing, Not Quiet Much! ###
 ![Crepe](/img/year1seaborn.jpg){: .center-block :}
@@ -59,8 +59,8 @@ During this bolg post I will focus on communicating my findings through visualiz
 ### October might be the best month to visit Southern California! ### 
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
 
-After this EDA I will focus on the statistical side of things to start testing hypothesis.
-I cannort wait to share whats to come with you!
+ While the EDA step would evovle with time, newer data comes in. I will be doing statistically testing hypothesis. 
+
 
 
 Sources: NASA, https://www.ndbc.noaa.gov, https://www.oceanmotion.org
