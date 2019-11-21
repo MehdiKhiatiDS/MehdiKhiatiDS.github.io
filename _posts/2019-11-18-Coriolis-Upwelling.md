@@ -18,6 +18,7 @@ Pandas, Matplotlib and Seaboarn were the libraries for EDA and visualization.
 In some coastal areas of the ocean and large lakes, the combination of persistent winds and Earth's rotation (the Coriolis effect) creates winds that tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon, We and marine life see and feel on a daily basis! 
 While this has a big impact on marine life, global warming, fishing industry, local economies and social behavior, I will focus on showcasing the correlation between wind direction and intensity with water temperature variance. 
 
+![Crepe](/img/clitoris.jpg){: .center-block :}
 
 
 
@@ -33,7 +34,7 @@ github with all the code, functions and methods steps by steps!
 ### Increase of wind speed from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
 
-![Crepe](img/nnw.jpg){: .center-block :}
+![Crepe](/img/nnw.jpg){: .center-block :}
 
 ### SSW and NNW winds cause the highest water temperature variances! ###
 ![Crepe](/img/ssw.jpg){: .center-block :}
