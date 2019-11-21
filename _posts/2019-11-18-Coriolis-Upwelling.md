@@ -22,19 +22,24 @@ While this has a big impact on marine life, global warming, fishing industry, lo
 
 Using facets grip from Seaborn, I plotted wind direction correlating with water temperature by month as we see the more the winds tends to gust from the north the water gets colder. 
 
-### Isn't Water supposed to be cold in October and warm in may? ###
+### Isn't Water supposed to be warm in may? ###
 ![Crepe](/img/year1seaborn.jpg){: .center-block :}
 ![Crepe](/img/seaboaryear2.jpg){: .center-block :}
 
 
 github with all the code, functions and methods steps by steps! 
 
+### Increase of wind speed from NW tends to cool the water! ###
+![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
+![NW](img/nnw.jpg){: .center-block :}
+
+### SSW and NNW winds cause the highest water temperature variances! ###
+![NW](img/ssw.jpg){: .center-block :}
+
 ### October might be the best month to visit Southern California! ### 
 ###### Observing Water Temperature Variance Through 2018 ####### 
 ![Crepe](/img/seaborn%20plot.jpg){: .center-block :}
 
-### Increase of wind speed from NW tends to cool the water! ###
-![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
 
 
 Here is theccode for the Facet Plot:
