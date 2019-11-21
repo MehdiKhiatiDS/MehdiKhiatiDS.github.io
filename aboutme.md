@@ -4,18 +4,13 @@ title: About me
 subtitle: Why you'd want to read what I write!
 ---
 
-My name is Mehdi Khiati. I have the following qualities:
+My name is Mehdi & I have the following qualities:
 
 - I rock a great mustache
-- Mullet goes without saying!
 - I'm extremely loyal to my family
 - I think I'm a great role model
-- I'm funny or at least I think!
-- Also have you seen me do the Surfing, Please don't!
-- I never was about statistics or data but then I'm all about it now!
 - I'm from Morocco, Was born In Casablanca, (so yes Couscous and I speak French, which honestly I wish I didn't, I mean sounds   
   fancy but how else would you use it besides the space its holding in my head! you know how much AI I have to learn!)
-  What else do you need?
 - I like to learn things!
 - Travel, Cultures, Food, Openmindness, Apadtability and Music are life's best offering in my opinion!
 ### my history
