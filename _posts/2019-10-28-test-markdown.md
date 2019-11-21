@@ -38,19 +38,6 @@ dot_data = export_graphviz(model, out_file=None, feature_names=features, filled=
 graphviz.Source(dot_data)
 ~~~
 
-And here is the same code with syntax highlighting:
-
-```javascript
-!pip install graphviz
-!apt-get install graphviz
-
-import graphviz
-from sklearn.tree import export_graphviz
-
-dot_data = export_graphviz(model, out_file=None, feature_names=features, filled=True, rotate=True)
-graphviz.Source(dot_data)
-```
-
 And here is the same code yet again but with line numbers:
 
 {% highlight javascript linenos %}
