@@ -29,16 +29,12 @@ import matplotlib.pyplot as plt
 
 sns.set(style="ticks")
 
-# Create a dataset with many short random walks
-# rs = np.random.RandomState(4)
-# pos = rs.randint(-1, 2, (20, 5)).cumsum(axis=1)
-# pos -= pos[:, 0, np.newaxis]
-# step = np.tile(range(5), 20)
-# walk = np.repeat(range(20), 5)
-df = pd.DataFrame(np.c_[upwelling['Water temperature'], upwelling['Month'], upwelling['Wind Direction coordinates']],
+# Pulling Upwelling dataset we created fron NOAA and UCSD databases
+
+#df = pd.DataFrame(np.c_[upwelling['Water temperature'], upwelling['Month'], upwelling['Wind Direction coordinates']],
                   columns=["Water temperature", "Month", "Wind Direction coordinates"])
 
-# Initialize a grid of plots with an Axes for each walk
+# Initialize a grid of plots with an Axes for each Month
 grid = sns.FacetGrid(df, col="Month", hue="Month", palette="tab20c",
                      col_wrap=4, height=5)
 
