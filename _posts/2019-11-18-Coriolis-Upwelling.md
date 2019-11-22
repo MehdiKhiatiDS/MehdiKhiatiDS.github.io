@@ -16,13 +16,13 @@ Pandas, Matplotlib and Seaboarn were the libraries for EDA and visualization.
 
 #### Intro and quick Definition
 In some coastal areas of the ocean and large lakes, the combination of persistent winds and Earth's rotation (the Coriolis effect) creates winds that tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon, We and marine life see and feel on a daily basis! 
-While this has a big impact on marine life, global warming, fishing industry, local economies and social behavior, I will focus on showcasing the correlation between wind direction and intensity with water temperature variance. 
+While this has a big impact on marine life, global warming, fishing industry, local economies and social behaviors, I will focus on showcasing the correlation between wind direction and intensity with water temperature variance. 
 
 ![Crepe](/img/clitoris.jpg){: .center-block :}
 
 
 
-Using facets grip from Seaborn, I plotted wind direction correlating with water temperature by month as we see the more the winds tends to gust from the north the water gets colder. 
+Using facets grip from Seaborn, I plotted wind direction correlating with water temperature by month, as we see the more the winds tends to gust from the north the water gets colder which is Upwelling while the south winds generate the opposit effect known as Downwelling. 
 
 ### Isn't Water supposed to be warm in may? ###
 ![Crepe](/img/year1seaborn.jpg){: .center-block :}
@@ -44,7 +44,11 @@ github with all the code, functions and methods steps by steps!
 ###### Observing Water Temperature Variance Through 2018 ####### 
 ![Crepe](/img/seaborn%20plot.jpg){: .center-block :}
 
+### Wind speed from NW speeds up the cooling effect!
+![Crepe](/img/southwindspee.jpg)
 
+### While wind speed from SW speeds up the warming effect!
+![Crepe](/img/north%windspeed.jpg)
 
 Here is the code for the Facet Plot:
 
