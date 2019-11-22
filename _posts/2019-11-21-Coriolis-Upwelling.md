@@ -29,10 +29,11 @@ Using facets grip from Seaborn, I plotted wind direction correlating with water 
 ![Crepe](/img/seaboaryear2.jpg){: .center-block :}
 
 
-github with all the code, functions and methods steps by steps! 
+[github with all the code](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb) 
 
 ### Increase of winds from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
+kdeplot courtesey of Seaborn
 
 ### SSW and NNW winds cause the highest water temperature variances! ###
 ![Crepe](/img/nnw.jpg){: .center-block :}
@@ -50,7 +51,7 @@ github with all the code, functions and methods steps by steps!
 ![Crepe](/img/north%20windspeed.jpg)
 
 The code to the Facet Plot I used to do a monthly analysis of wind direction and water temperature:
-_(rest of code will be linked in my github)_
+_(rest of code step by step will be linked in my github)_
 
 ```javascript
 import numpy as np
