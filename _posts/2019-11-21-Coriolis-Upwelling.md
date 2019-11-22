@@ -33,7 +33,7 @@ Using facets grip from Seaborn, I plotted wind direction correlating with water 
 
 ### Increase of winds from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
-kdeplot courtesey of Seaborn
+kdeplot courtesy of Seaborn
 
 ### SSW and NNW winds cause the highest water temperature variances! ###
 ![Crepe](/img/nnw.jpg){: .center-block :}
