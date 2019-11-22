@@ -77,7 +77,7 @@ grid.set(xticks=np.arange(0,30,2), yticks=['NE', 'NNE', 'SE', 'SSE', 'SSW', 'SW'
 grid.fig.tight_layout(w_pad=1)
 ```
 
-_Sources_: [nasa](NASA.org), [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD](ucsd.edu)
+_Sources_: [NASA](nasa.org), [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD](ucsd.edu)
 
 [_Link for step by step coding process on github:_](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
 
