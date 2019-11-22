@@ -48,9 +48,10 @@ github with all the code, functions and methods steps by steps!
 ![Crepe](/img/southwindspee.jpg)
 
 ### While wind speed from SW speeds up the warming effect!
-![Crepe](/img/north%windspeed.jpg)
+![Crepe](/img/north%20windspeed.jpg)
 
-Here is the code for the Facet Plot:
+The code to the Facet Plot I used to do a monthly analysis of wind direction and water temperature:
+_(rest of code will be linked in my github)_
 
 ```javascript
 import numpy as np
