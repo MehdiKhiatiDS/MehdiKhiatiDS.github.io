@@ -24,7 +24,7 @@ While this has a big impact on marine life, global warming, fishing industry, lo
 
 Using facets grip from Seaborn, I plotted wind direction correlating with water temperature by month, as we see the more the winds tends to gust from the north the water gets colder which is Upwelling while the south winds generate the opposit effect known as Downwelling. 
 
-### Isn't Water supposed to be warm in may? ###
+### Isn't Water supposed to be warm in May? ###
 ![Crepe](/img/year1seaborn.jpg){: .center-block :}
 ![Crepe](/img/seaboaryear2.jpg){: .center-block :}
 
