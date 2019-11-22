@@ -7,15 +7,15 @@ subtitle: What did the storm tell the coconut tree?
 ##### Material and methods:
 The study region is in The Pacific Ocean (32.7157° N, 117.1611° W), San Diego CA. 
 I used the data from the station buoy 46225. 
-I divided the Wind data into 8, 45 degrees zonal bands.(focusing on vertical movements with 0 as true north)
+I divided the Wind data into 8, 45 degrees zonal bands(focusing on vertical movements with 0 as true north).
 Wind direction and speed data were obtained from the NOAA  datasets as well as swell direction and periods. 
 Water temperature was obtained from UCSD, Scripps Institution of Oceanography.
 For the period of 2016, 2017 and 2018. Winds were captured every 10 min while Temperature wasn't as exact.
-Due to different correlations for differents time periods, it was difficult to conduct the correlation analysis in the entire zonal bands for the time period.
+Due to different correlations for different time periods, it was difficult to conduct the correlation analysis in the entire zonal bands for the time period.
 Pandas, Matplotlib and Seaboarn were the libraries for EDA and visualization.
 
 #### Intro and quick Definition
-In some coastal areas of the ocean and large lakes, the combination of persistent winds and Earth's rotation (the Coriolis effect) creates winds that tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple amazing phenomenon, We and marine life see and feel on a daily basis! 
+In some coastal areas of the ocean and large lakes, the combination of persistent winds and Earth's rotation (the Coriolis effect) creates winds that tend to veer right in the northern hemisphere and left in the southern hemisphere while restrictions on lateral movements of water caused by shorelines and shallow bottoms induces upward and downward water movements, allowing upwelling of deeper, colder, full of nutrition water which is responsible for couple of amazing phenomenons, we and marine life see and feel on a daily basis! 
 While this has a big impact on marine life, global warming, fishing industry, local economies and social behaviors, I will focus on showcasing the correlation between wind direction and intensity with water temperature variance. 
 
 ![Crepe](/img/clitoris.jpg){: .center-block :}
@@ -34,11 +34,10 @@ github with all the code, functions and methods steps by steps!
 ### Increase of winds from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
 
+### SSW and NNW winds cause the highest water temperature variances! ###
 ![Crepe](/img/nnw.jpg){: .center-block :}
 
-### SSW and NNW winds cause the highest water temperature variances! ###
 ![Crepe](/img/ssw.jpg){: .center-block :}
-
 
 ### October might be the best month to visit Southern California! ### 
 ###### Observing Water Temperature Variance Through 2018 ####### 
