@@ -46,42 +46,40 @@ github with all the code, functions and methods steps by steps!
 
 
 
-Here is theccode for the Facet Plot:
+Here is the code for the Facet Plot:
 
 ```javascript
 import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-
+params = {'legend.fontsize': 'x-large',
+          'figure.figsize': (22, 8),
+         'axes.labelsize': 'large',
+         'axes.titlesize':'x-large',
+         'xtick.labelsize':'x-small',
+         'ytick.labelsize':'medium'}
 sns.set(style="ticks")
-
 # Pulling Upwelling dataset we created fron NOAA and UCSD databases
-
 #df = pd.DataFrame(np.c_[upwelling['Water temperature'], upwelling['Month'], upwelling['Wind Direction coordinates']],
                   columns=["Water temperature", "Month", "Wind Direction coordinates"])
-
 # Initialize a grid of plots with an Axes for each Month
 grid = sns.FacetGrid(df, col="Month", hue="Month", palette="tab20c",
                      col_wrap=4, height=5)
-
 # Draw a horizontal line to show the starting point
 grid.map(plt.axhline, y=0, ls=":", c=".5")
-
 # Draw a line plot to show the coordinate
 grid.map(plt.plot, "Water temperature", "Wind Direction coordinates", marker="o")
-
 # Adjust the tick positions and labels
 grid.set(xticks=np.arange(0,30,2), yticks=['NE', 'NNE', 'SE', 'SSE', 'SSW', 'SW', 'NW', 'NNW'],
          xlim=(0, 30), ylim=('NE', 'SW'))
-
 # Adjust the arrangement of the plots
 grid.fig.tight_layout(w_pad=1)
 ```
 
 Sources: NASA, https://www.ndbc.noaa.gov, https://www.oceanmotion.org
 
-Links for articles and data I used will also be on github.
+Link for step by step coding process:
 
 https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb
 
