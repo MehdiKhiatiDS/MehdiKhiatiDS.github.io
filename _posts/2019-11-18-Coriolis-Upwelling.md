@@ -4,7 +4,7 @@ title: You Don't like cold water don't you!
 subtitle: Coriolis & Upwelling effect simplified
 
 ---
-###### Material and methods:
+##### Material and methods:
 The study region is in The Pacific Ocean (32.7157° N, 117.1611° W), San Diego CA. 
 I used the data from the station buoy 46225. 
 I divided the Wind data into 8, 45 degrees zonal bands.(focusing on vertical movements with 0 as true north)
@@ -77,11 +77,11 @@ grid.set(xticks=np.arange(0,30,2), yticks=['NE', 'NNE', 'SE', 'SSE', 'SSW', 'SW'
 grid.fig.tight_layout(w_pad=1)
 ```
 
-Sources: NASA, https://www.ndbc.noaa.gov, https://www.oceanmotion.org
+_Sources_: [nasa](NASA.org), [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD]
 
-Link for step by step coding process:
+[_Link for step by step coding process on github:_]
 
-https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb
+(https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
 
 
 
