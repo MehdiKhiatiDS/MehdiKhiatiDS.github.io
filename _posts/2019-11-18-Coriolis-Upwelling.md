@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coriolis & Upwelling effect simplified!
+title: Coriolis effect simplified!
 subtitle: What did the storm tell the coconut tree?
 
 ---
