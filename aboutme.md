@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to read what I write!
+subtitle: Lets talk qualities first!
 ---
 
 My name is Mehdi & I have the following qualities:
@@ -9,8 +9,7 @@ My name is Mehdi & I have the following qualities:
 - I rock a great mustache
 - I'm extremely loyal to my family
 - I think I'm a great role model
-- I'm from Morocco, Was born In Casablanca, (so yes Couscous and I speak French, which honestly I wish I didn't, I mean sounds   
-  fancy but how else would you use it besides the space its holding in my head! you know how much AI I have to learn!)
+- I'm from Morocco, Was born In Casablanca, (so yes Couscous)
 - I like to learn things!
 - Travel, Cultures, Food, Openmindness, Apadtability and Music are life's best offering in my opinion!
 ### my history
