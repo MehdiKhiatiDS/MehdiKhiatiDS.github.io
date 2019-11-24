@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coriolis effect simplified!
-subtitle: What did the storm tell the coconut tree?
+subtitle: Can you predict water temperature with Data Science?
 
 ---
 ##### Material and methods:
