@@ -28,8 +28,7 @@ Using facets grip from Seaborn, I plotted wind direction correlating with water 
 ![Crepe](/img/year1seaborn.jpg){: .center-block :}
 ![Crepe](/img/seaboaryear2.jpg){: .center-block :}
 
-
-[github with all the code](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb) 
+ 
 
 ### Increase of winds from NW tends to cool the water! ###
 ![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
@@ -52,6 +51,7 @@ kdeplot courtesy of Seaborn
 
 The code to the Facet Plot I used to do a monthly analysis of wind direction and water temperature:
 _(rest of code step by step will be linked in my github)_
+[see code version here](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
 
 ```javascript
 import numpy as np
@@ -82,7 +82,7 @@ grid.set(xticks=np.arange(0,30,2), yticks=['NE', 'NNE', 'SE', 'SSE', 'SSW', 'SW'
 grid.fig.tight_layout(w_pad=1)
 ```
 
-_Sources_: [NASA](nasa.org), [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD](ucsd.edu)
+_Sources_: [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD](https://ucsd.edu)
 
 [_Link for step by step coding process on github:_](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
 
