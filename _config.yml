@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   
   About Me: "aboutme"
-  Read: "http://www.mehdikhiati.com/
+  Read: "http://www.mehdikhiati.com"
   Resources:
   - NOOA: "https://www.ndbc.noaa.gov/historical_data.shtml#cwind"
   - NASA: "http://oceanmotion.org/html/background/upwelling-and-downwelling.htm"
