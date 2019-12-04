@@ -15,5 +15,5 @@ My name is Mehdi & I have the following qualities:
 ### my history
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://https://www.instagram.com/p/Bnj5FuDA-YE/) and it will answer **all** your questions.
-![Tiger Image](https://unsplash.com/photos/5RBXc7R-YWs)
-If you still have any questions! Not to you worry! I'll gladly answer them with my olny answer!
+
+
