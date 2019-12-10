@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do we have Linear Regression!
+title: Logistic Regression vs Random Forest!
 subtitle: Yes we do, or do we!
 gh-repo: mehdikhiati.com
 gh-badge: [star, fork, follow]
