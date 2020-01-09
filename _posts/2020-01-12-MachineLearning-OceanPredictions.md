@@ -22,7 +22,7 @@ Second I fitted a Decision Tree Regressor with a max depth of 2 which predicted 
 To get more insight on how the model did since Trees tend to overfit data, I then fitted a Random Tree Regressor with the depth of 10th which significantly improved my accuracy to 78.62%. Not bad right?
 But then in the search of better predictions, I fitted a couple more models which I highly recommend, it's a fun process I promise.
 So I fitted Gradient Boosting Regressor and tweeked its hyperparametres till it did as good as the Random Forest, at this point I knew if I was to get better accuracy, it'll be only by a fraction. 
-Then I fitted an XGboost Regressor to see and understand how the type of model was going to perform when trained on my data, still no success to beat the Random Forest and Gradient Boosting.
+Then I fit an XGboost Regressor to see and understand how the type of model was going to perform when trained on my data, still no success to beat the Random Forest and Gradient Boosting.
 To validate all of this as I mentioned above I choose MEA as an evaluation metric and that is when things became intersting and I had the best metric through the Gradient boosting model, which I choose to implement in my app to do live predicting with an MAE of 1.32 degrees Celsius.
 
 
