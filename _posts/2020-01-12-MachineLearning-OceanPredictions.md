@@ -4,7 +4,7 @@ title: Machine Learning for the Ocean!
 subtitle: Fitting Regression models.
 
 ---
-##### Chooses a target, evaluation metric, and baseline for regression:
+#### Choosing a target, evaluation metric, and baseline for regression:
 In order to to predicit ocean water temperature, Seems like I'm starting from the end but bare with me while I go over the steps 
 one would use in a busines scenario to get valuable insights and predictions to solve an issue, or improve a process by using insights
 and predictions that would beat baseline. 
@@ -32,64 +32,52 @@ To validate all of this as I mentioned above I choose MEA as an evaluation metri
 
 
 
-Using facets grip from Seaborn, I plotted wind direction correlating with water temperature by month, as we see the more the winds tends to gust from the north the water gets colder which is Upwelling while the south winds generate the opposit effect known as Downwelling. 
-
-### Isn't Water supposed to be warm in May? ###
-![Crepe](/img/year1seaborn.jpg){: .center-block :}
-![Crepe](/img/seaboaryear2.jpg){: .center-block :}
-
  
 
-### Increase of winds from NW tends to cool the water! ###
-![Crepe](/img/kdeplotseabornwindwatta.jpg){: .center-block :}
-kdeplot courtesy of Seaborn
+### Heat maps ###
+Showcasing correlation between Swell Direction & Wave Heights
+![Crepe](/img/heatmapswelldirwaves.jpg){: .center-block :}
+Showcasing correlation between Wind Direction & Wind Speed
+![Crepe](/img/winddirwindspeed.png){: .center-block :}
 
-### SSW and NNW winds cause the highest water temperature variances! ###
-![Crepe](/img/nnw.jpg){: .center-block :}
 
-![Crepe](/img/ssw.jpg){: .center-block :}
 
-### October might be the best month to visit Southern California! ### 
-###### Observing Water Temperature Variance Through 2018 ####### 
-![Crepe](/img/seaborn%20plot.jpg){: .center-block :}
-
-### Wind speed from NW speeds up the cooling effect!
-![Crepe](/img/southwindspee.jpg)
-
-### While wind speed from SW speeds up the warming effect!
-![Crepe](/img/north%20windspeed.jpg)
-
-The code to the Facet Plot I used to do a monthly analysis of wind direction and water temperature:
+The code to make a pipeline:
 _(rest of code step by step will be linked in my github)_
 [see code version here](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
 
 ```javascript
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-params = {'legend.fontsize': 'x-large',
-          'figure.figsize': (22, 8),
-         'axes.labelsize': 'large',
-         'axes.titlesize':'x-large',
-         'xtick.labelsize':'x-small',
-         'ytick.labelsize':'medium'}
-sns.set(style="ticks")
-# Pulling Upwelling dataset we created fron NOAA and UCSD databases
-#df = pd.DataFrame(np.c_[upwelling['Water temperature'], upwelling['Month'], upwelling['Wind Direction coordinates']],
-                  columns=["Water temperature", "Month", "Wind Direction coordinates"])
-# Initialize a grid of plots with an Axes for each Month
-grid = sns.FacetGrid(df, col="Month", hue="Month", palette="tab20c",
-                     col_wrap=4, height=5)
-# Draw a horizontal line to show the starting point
-grid.map(plt.axhline, y=0, ls=":", c=".5")
-# Draw a line plot to show the coordinate
-grid.map(plt.plot, "Water temperature", "Wind Direction coordinates", marker="o")
-# Adjust the tick positions and labels
-grid.set(xticks=np.arange(0,30,2), yticks=['NE', 'NNE', 'SE', 'SSE', 'SSW', 'SW', 'NW', 'NNW'],
-         xlim=(0, 30), ylim=('NE', 'SW'))
-# Adjust the arrangement of the plots
-grid.fig.tight_layout(w_pad=1)
+import category_encoders as ce
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import make_pipeline
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.impute import SimpleImputer
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.ensemble import RandomTreesEmbedding
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.ensemble import VotingRegressor
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import roc_curve
+from sklearn.metrics import multilabel_confusion_matrix
+from sklearn.linear_model import PassiveAggressiveClassifier
+from sklearn.linear_model import RidgeClassifier
+from sklearn.linear_model import PassiveAggressiveRegressor
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_absolute_error
+pipeline = make_pipeline(
+    ce.OrdinalEncoder(), 
+    SimpleImputer(strategy='median'), 
+    GradientBoostingRegressor(n_estimators=1000, subsample=0.8)
+)
+
+# Fit on train, score on val
+
+pipeline.fit(X_train, y_train)
+print('Train Accuracy', pipeline.score(X_train, y_train))
+print('Validation Accuracy', pipeline.score(X_val, y_val))
+print('Validation Accuracy', pipeline.score(X_test, y_test))
 ```
 
 _Sources_: [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD](https://ucsd.edu)
