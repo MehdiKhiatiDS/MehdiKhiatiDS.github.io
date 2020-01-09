@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Machine Learning Prediciting Ocean Water Temperature!
-subtitle: Fitting a  Regression model.
+title: Machine Learning for the Ocean!
+subtitle: Fitting Regression models.
 
 ---
 ##### Chooses a target, evaluation metric, and baseline for regression:
