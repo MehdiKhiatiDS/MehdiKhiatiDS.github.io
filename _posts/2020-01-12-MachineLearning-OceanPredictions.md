@@ -46,6 +46,7 @@ Showcasing correlation between Wind Direction & Wind Speed
 To not overwhelm you, I will share steps on doing so in a seperate post since I'm focusing in Regression Modeling, 
 But for now you can check the link to my sick [app] (here)
 
+![Crepe](/img/herokuapppic.png){: .center-block :}
 
 The code to make a pipeline:
 _(rest of code step by step will be linked in my github)_
