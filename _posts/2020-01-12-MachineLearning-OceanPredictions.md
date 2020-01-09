@@ -24,6 +24,7 @@ To validate all of this as I mentioned above I choose MEA as an evaluation metri
 
 
 ![Crepe](/img/winddirwatertempbars.png){: .center-block :}
+Visualizing what the model is predcting before droping the target!
 
 
 
