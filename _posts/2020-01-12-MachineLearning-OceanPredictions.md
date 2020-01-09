@@ -56,25 +56,8 @@ _(rest of code step by step will be linked in my github)_
 [see code version here](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
 
 ```javascript
-import category_encoders as ce
-from sklearn.model_selection import train_test_split
-from sklearn.pipeline import make_pipeline
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.impute import SimpleImputer
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.ensemble import RandomTreesEmbedding
-from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.ensemble import VotingRegressor
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import roc_curve
-from sklearn.metrics import multilabel_confusion_matrix
-from sklearn.linear_model import PassiveAggressiveClassifier
-from sklearn.linear_model import RidgeClassifier
-from sklearn.linear_model import PassiveAggressiveRegressor
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error
+#after importing all neccesary encoders, imputers and model!
+
 pipeline = make_pipeline(
     ce.OrdinalEncoder(), 
     SimpleImputer(strategy='median'), 
