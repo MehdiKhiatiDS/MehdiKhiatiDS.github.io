@@ -4,6 +4,8 @@ title: Coriolis effect simplified!
 subtitle: Can you predict water temperature with Data Science?
 
 ---
+![Crepe](/img/NSR_0434_Colorados_AM_Sept_23_2019_CC-(ZF-2728-32245-1-001).jpg){: .center-block :}
+
 #### Material and methods:
 The study region is in The Pacific Ocean (32.7157° N, 117.1611° W), San Diego CA. 
 I used the data from the station buoy 46225. 
@@ -19,7 +21,6 @@ In some coastal areas of the ocean and large lakes, the combination of persisten
 While this has a big impact on marine life, global warming, fishing industry, local economies and social behaviors, I will focus on showcasing the correlation between wind direction and intensity with water temperature variance. 
 
 ![Crepe](/img/clitoris.jpg){: .center-block :}
-
 
 
 Using facets grip from Seaborn, I plotted wind direction correlating with water temperature by month, as we see the more the winds tends to gust from the north the water gets colder which is Upwelling while the south winds generate the opposit effect known as Downwelling. 
