@@ -35,11 +35,20 @@ To validate all of this as I mentioned above I choose MEA as an evaluation metri
  
 
 ### Heat maps ###
+
 Showcasing correlation between Swell Direction & Wave Heights
+
 ![Crepe](/img/heatmapswelldirwaves.jpg){: .center-block :}
+
 Showcasing correlation between Wind Direction & Wind Speed
+
 ![Crepe](/img/winddirwindspeed.png){: .center-block :}
 
+
+#### Creating an interactive app with Dash with deployment to Heroku
+
+To not overwhell you, I will share steps on doing so in a seperate post since I'm focusing in Regression Modeling, 
+But for now you can check the link to my sick [app] (here)
 
 
 The code to make a pipeline:
