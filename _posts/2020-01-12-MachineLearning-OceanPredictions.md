@@ -28,7 +28,7 @@ But then in the search of better predictions, I fitted couple more models which 
 So I fitted Gradient Boosting Regressor and tweeked its hyperparametres till it did as good as the Random Forest, at this point I knew if I was to get better accuracy, it'll be only by a fraction. 
 Then I fitted an XGboost Regressor to see and understand how the type of model was going to perform when trained on my data, still no success to beat the Random Forest and Gradient Boosting.
 To validate all of this as I mentioned above I choose MEA as an evaluation metric and that when things became intersting and had best metric through the Gradient boosting model, which I choose to implement in my app to do live predicting with MAE of 1.32 degrees Celsius.
-![Crepe](/img/clitoris.jpg){: .center-block :}
+![Crepe](/img/heat map swell dir, waves.jpg){: .center-block :}
 
 
 
