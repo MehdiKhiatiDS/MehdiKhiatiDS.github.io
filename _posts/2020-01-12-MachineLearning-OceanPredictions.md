@@ -47,7 +47,7 @@ Showcasing correlation between Wind Direction & Wind Speed
 #### Creating an interactive app with Dash with deployment to Heroku
 
 To not overwhelm you, I will share steps on doing so in a seperate post since I'm focusing in Regression Modeling, 
-But for now you can check the link to my sick [app] (here)
+But for now you can check the link to my [app] (http://www.mehdikhiati.com/2020-01-12-MachineLearning-OceanPredictions/)
 
 ![Crepe](/img/herokuapppic.png){: .center-block :}
 
