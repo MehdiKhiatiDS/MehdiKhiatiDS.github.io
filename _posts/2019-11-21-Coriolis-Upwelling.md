@@ -4,7 +4,7 @@ title: Coriolis effect simplified!
 subtitle: Can you predict water temperature with Data Science?
 
 ---
-##### Material and methods:
+#### Material and methods:
 The study region is in The Pacific Ocean (32.7157° N, 117.1611° W), San Diego CA. 
 I used the data from the station buoy 46225. 
 I divided the Wind data into 8, 45 degrees zonal bands(focusing on vertical movements with 0 as true north).
