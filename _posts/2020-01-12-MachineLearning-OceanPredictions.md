@@ -45,9 +45,13 @@ Showcasing correlation between Wind Direction & Wind Speed
 
 ![Crepe](/img/winddirwindspeed.png){: .center-block :}
 
-DPD showcasing at what point wind direction start affecting the temperature!
+PDP showcasing at what point wind direction start affecting the temperature!
 
 ![Crepe](/img/pdp.png){: .center-block :}
+
+PDP showcasing at what point wave height start affecting the temperature!
+
+![Crepe](/img/wavepdp.png){: .center-block :}
 
 #### Creating an interactive app with Dash with deployment to Heroku
 
