@@ -4,7 +4,7 @@ title: Machine Learning for the Ocean!
 subtitle: Fitting Regression models.
 
 ---
-
+![Crepe](/img/pdp.png){: .center-block :}
 ![Crepe](/img/tahiti.jpg){: .center-block :}
 
 #### Choosing a target, evaluation metric, and baseline for regression:
@@ -43,6 +43,9 @@ Showcasing correlation between Wind Direction & Wind Speed
 
 ![Crepe](/img/winddirwindspeed.png){: .center-block :}
 
+DPD showcasing at what point wind direction start affecting the temperature!
+
+![Crepe](/img/pdp.png){: .center-block :}
 
 #### Creating an interactive app with Dash with deployment to Heroku
 
