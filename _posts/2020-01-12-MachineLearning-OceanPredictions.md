@@ -56,7 +56,7 @@ PDP showcasing at what point wave height start affecting the temperature!
 #### Creating an interactive app with Dash with deployment to Heroku
 
 To not overwhelm you, I will share steps on doing so in a seperate post since I'm focusing in Regression Modeling, 
-But for now you can check the link to my app [oceanai17](https://www.heroku.com/oceanai17)
+But for now you can check the link to my app [oceanai17](http://oceanai17.herokuapp.com/predictions)
 
 ![Crepe](/img/aithebitch.png){: .center-block :}
 
