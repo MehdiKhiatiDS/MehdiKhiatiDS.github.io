@@ -39,6 +39,8 @@ Showcasing correlation between Swell Direction & Wave Heights
 
 ![Crepe](/img/heatmapswelldirwaves.jpg){: .center-block :}
 
+kdeplot showing the concentration of colder waters with NW winds and strong swell more than 5 feet at 8 sec intervals.
+![Crepe](/img/gplot.png){: .center-block :}
 Showcasing correlation between Wind Direction & Wind Speed
 
 ![Crepe](/img/winddirwindspeed.png){: .center-block :}
