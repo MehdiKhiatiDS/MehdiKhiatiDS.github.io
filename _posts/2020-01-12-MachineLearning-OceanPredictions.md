@@ -58,7 +58,7 @@ PDP showcasing at what point wave height start affecting the temperature!
 To not overwhelm you, I will share steps on doing so in a seperate post since I'm focusing in Regression Modeling, 
 But for now you can check the link to my app [oceanai17](http://oceanai17.herokuapp.com/predictions)
 
-![Crepe](/img/aithebitch.png){: .center-block :}
+
 
 The code to make a pipeline:
 _(rest of code step by step will be linked in my github)_
