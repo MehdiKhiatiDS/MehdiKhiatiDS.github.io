@@ -50,9 +50,9 @@ DPD showcasing at what point wind direction start affecting the temperature!
 #### Creating an interactive app with Dash with deployment to Heroku
 
 To not overwhelm you, I will share steps on doing so in a seperate post since I'm focusing in Regression Modeling, 
-But for now you can check the link to my [app](http://www.mehdikhiati.com/2020-01-12-MachineLearning-OceanPredictions/)
+But for now you can check the link to my app [oceanai17](https://www.heroku.com/oceanai17)
 
-![Crepe](/img/herokuapppic.png){: .center-block :}
+![Crepe](/img/aithebitch.png){: .center-block :}
 
 The code to make a pipeline:
 _(rest of code step by step will be linked in my github)_
