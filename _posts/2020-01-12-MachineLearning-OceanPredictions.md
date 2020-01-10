@@ -4,7 +4,7 @@ title: Machine Learning for the Ocean!
 subtitle: Fitting Regression models.
 
 ---
-![Crepe](/img/pdp.png){: .center-block :}
+
 ![Crepe](/img/tahiti.jpg){: .center-block :}
 
 #### Choosing a target, evaluation metric, and baseline for regression:
