@@ -27,15 +27,14 @@ To validate all of this as I mentioned above I choose MEA as an evaluation metri
 
 
 ![Crepe](/img/winddirwatertempbars.png){: .center-block :}
-Visualizing what the model is predcting before droping the target!
+Visualizing what the model is predicting before droping the target!
 
-
-
+![Crepe](/img/blobs.png){: .center-block :}
  
 
 ### Heat maps ###
 
-Showcasing correlation between Swell Direction & Wave Heights
+Showcasing dependencies of features with most effect on the model!
 
 ![Crepe](/img/heatmapswelldirwaves.jpg){: .center-block :}
 
@@ -52,6 +51,10 @@ PDP showcasing at what point wind direction start affecting the temperature!
 PDP showcasing at what point wave height start affecting the temperature!
 
 ![Crepe](/img/wavepdp.png){: .center-block :}
+
+#### We all love trees for a reason!
+
+![Crepe](/img/treeleft.png){: .left-block :}
 
 #### Creating an interactive app with Dash with deployment to Heroku
 
