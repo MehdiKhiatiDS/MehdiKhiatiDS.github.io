@@ -54,7 +54,7 @@ PDP showcasing at what point wave height start affecting the temperature!
 
 #### We all love trees for a reason!
 
-![Crepe](/img/treeleft.png){: .left-block :}
+![Crepe](/img/treeleft.png){: .left-block :}  ![Crepe](/img/treerught.png){: .right-block :}
 
 #### Creating an interactive app with Dash with deployment to Heroku
 
