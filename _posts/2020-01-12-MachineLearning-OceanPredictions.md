@@ -86,7 +86,8 @@ print('Validation Accuracy', pipeline.score(X_test, y_test))
 
 _Sources_: [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD](https://ucsd.edu)
 
-[_Link for step by step coding process on github:_](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
+[_Link for step by step coding process on github:_](https://github.com/MehdiKhiatiDS/DSAI/blob/master/ocean_AI17.ipynb.zip)
+Heads up: Its a bit of a big file and you'll need to unzip it!
 
 
 
