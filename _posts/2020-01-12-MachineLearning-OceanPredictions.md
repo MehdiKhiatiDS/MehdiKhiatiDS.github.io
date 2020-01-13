@@ -86,11 +86,11 @@ print('Validation Accuracy', pipeline.score(X_test, y_test))
 _Sources_: [NOAA](https://www.ndbc.noaa.gov), [Ocean Motion](https://www.oceanmotion.org), [UCSD](https://ucsd.edu)
 
 
-_(Data wrangling and feature engineering linked in my github)_
-[see code version here](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
+_(see code here)_
+[Data wrangling and feature engineering linked in my github](https://github.com/MehdiKhiatiDS/DS-Unit-1-Build/blob/master/Project_Up_Welling!.ipynb)
 
-[_Predictive modeling Link step by step :_](https://github.com/MehdiKhiatiDS/DSAI/blob/master/ocean_AI17.ipynb.zip)
-Heads up: Its a bit of a big file and you'll need to unzip it!
+[Predictive modeling Link step by step](https://github.com/MehdiKhiatiDS/DSAI/blob/master/ocean_AI17.ipynb.zip)
+Heads up! Its a bit of a big file and you'll need to unzip it!
 
 
 
