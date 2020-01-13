@@ -1,17 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Lets talk qualities first!
+subtitle: Data Science Journey!
 ---
 
-My name is Mehdi & I have the following qualities:
+My name is Mehdi and I started this journey to have a bigger impact on humanity, if I can help ease up a process or help solve and issue. I would love to work with you. I'm into visualizations and really like predicting things that relate to the Ocean and environment.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-- I think I'm a great role model
-- I'm from Morocco, Was born In Casablanca, (so yes Couscous)
-- I like to learn things!
-- Travel, Cultures, Food, Openmindness, Apadtability and Music are life's best offering in my opinion!
+Travel, Cultures, Food, Openmindness, Apadtability and Music are life's best offering in my opinion!
 ### my history
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://https://www.instagram.com/p/Bnj5FuDA-YE/) and it will answer **all** your questions.
