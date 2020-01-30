@@ -23,7 +23,7 @@ navbar-links:
   
   About Me: "aboutme"
   Checkout My Apps: 
-  - Twitoff: "https://twitoff17.herokuapp.com/"
+  - Twitoff: "https://mehdi-twitoff17.herokuapp.com"
   - OCEANAI17: "http://oceanai17.herokuapp.com/predictions"
   Resources:
   - NOOA: "https://www.ndbc.noaa.gov/historical_data.shtml#cwind"
