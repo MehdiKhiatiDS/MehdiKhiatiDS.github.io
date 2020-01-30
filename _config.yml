@@ -22,7 +22,7 @@ description: A Machine learning journey
 navbar-links:
   
   About Me: "aboutme"
-  Machine Learning: "http://www.mehdikhiati.com"
+  Checkout My App: "http://oceanai17.herokuapp.com/predictions"
   Resources:
   - NOOA: "https://www.ndbc.noaa.gov/historical_data.shtml#cwind"
   - NASA: "http://oceanmotion.org/html/background/upwelling-and-downwelling.htm"
