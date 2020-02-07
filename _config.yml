@@ -22,7 +22,7 @@ description: A Machine learning journey
 navbar-links:
   
   About Me: "aboutme"
-  Checkout My Apps: 
+  Try My Apps: 
   - Symphinity: "https://symphinity-landing.netlify.com"
   - Twitoff: "https://mehdi-twitoff17.herokuapp.com"
   - OCEANAI17: "http://oceanai17.herokuapp.com/predictions"
@@ -34,9 +34,9 @@ navbar-links:
   - Sklearn: "https://scikit-learn.org/stable/"
   - Dash/Plotly: "https://dash.plot.ly"
   - Chris: "https://chrisalbon.com"
-  _ Twitter API : "https://developer.twitter.com"
-  _ Spotify API : "https://developer.spotify.com"
-  _ Basilica API : "https://www.basilica.ai"
+  - Twitter API : "https://developer.twitter.com"
+  - Spotify API : "https://developer.spotify.com"
+  - Basilica API : "https://www.basilica.ai"
 #     - NiceandClean: "https://www.instagram.com/niceandclean/"
 #     - Parrallelsea: "https://www.instagram.com/parallelsea/"
 #   Author's home: "https://www.mehdikhiati.com/"
