@@ -11,7 +11,7 @@ subtitle: Not to worry we solved it with a Neural Network.
 coming soon! for the code I contributed check out my part [click here](https://github.com/MehdiKhiatiDS/DS_2)
 
 #### Front End, Back End, Machine learning, Data Science Web Ux, all come together to build this project in one week!
- 
+ [Check out app here](https://symphinity-landing.netlify.com)
 
  #### State of the art Neural Network!
 
