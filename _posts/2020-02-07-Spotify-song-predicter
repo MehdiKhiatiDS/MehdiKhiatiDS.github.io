@@ -5,16 +5,12 @@ subtitle: Not to worry Neural Networks are here for help.
 
 ---
 
-![Crepe](/img/tahiti.jpg){: .center-block :}
+#![Crepe](/img/tahiti.jpg){: .center-block :}
 
-#### Choosing a target, evaluation metric, and baseline for regression:
-In order to predicit ocean water temperature... seems like I'm starting from the end but bare with me while I go over the steps one would use in a business scenario to get valuable insights and predictions to solve an issue, or improve a process by using insights and predictions that would beat baseline. 
-As a target  I choose Water Temperature from the data set provided in my previous post! As an evaluation Metric I choose Mean Absolute Error since I'm dealing with a large amount of data and variations, my target values are about 20 different values.
-What's a baseline? After identifying what you want to predict and the business problem you want to solve, try and get to a baseline asap and try to beat it with more complex robust models and then tweek parametres to improve your predictions scores.
-Train/Val/Test: Making sure to split your data right is the first step of success while avoiding leakage and selecting best features would come as a logical next step. I cannot stress enough how important it is to keep your test data until you are satisfied with your model then test it on your test split.
+#### First team project I worked on as a Data engineer:
+coming soon!
 
-
-#### Fitting and evaluating models
+#### Front End, Back End, Machine learning, web ux, it all comes together!
 As a start in this case I used a simple linear regression since I'm dealing with ordinal values, that gave a baseline of 22% 
 accurency, and that is my baseline to beat.
 I switched between a onehotencoder and a targetencoder to experience with which I highly recommend then ended up settling with oridnalencoder for couple reasons (minimizing computational power and time).
