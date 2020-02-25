@@ -5,7 +5,6 @@ subtitle: Fitting Regression models.
 
 ---
 
-#![Crepe](/img/tahiti.jpg){: .center-block :}
 
 #### Choosing a target, evaluation metric, and baseline for regression:
 In order to predicit ocean water temperature... seems like I'm starting from the end but bare with me while I go over the steps one would use in a business scenario to get valuable insights and predictions to solve an issue, or improve a process by using insights and predictions that would beat baseline. 
