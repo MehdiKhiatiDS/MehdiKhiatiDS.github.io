@@ -26,6 +26,7 @@ navbar-links:
   - Symphinity: "https://symphinity-landing.netlify.com"
   - Twitoff: "https://mehdi-twitoff17.herokuapp.com"
   - OCEANAI17: "http://oceanai17.herokuapp.com/predictions"
+  - Streetsmart17: "http://mehdi17.us-west-1.elasticbeanstalk.com"
   Resources:
   - NOOA: "https://www.ndbc.noaa.gov/historical_data.shtml#cwind"
   - NASA: "http://oceanmotion.org/html/background/upwelling-and-downwelling.htm"
