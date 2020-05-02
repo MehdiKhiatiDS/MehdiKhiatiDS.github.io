@@ -1,0 +1,48 @@
+---
+layout: post
+title: Codiv-19!
+subtitle: Explanatory Data Analysis.
+
+---
+
+
+#### I've been curious about how South Korea flattedned the curve:
+I'm pretty sure you had the same thought on how is China with a popuplation of over one Billion had less cases and less fatalities.
+While I'm not health expert, I can at least analyze the data and give non technical reader an easy way to see how the US did when comapred
+to other countries. With that being said its near impossible to have the accurate data to analyze. From countries missreporting their fatalities
+to amplitude of the cases world wide. Due to the nature of the virus it self. its hard to know who's infected and who's not since there
+has been so many cases of peopel carrying the virus but not showing any sympthoms.
+
+
+#### Visuals to help see how this virus recked the world.
+I'm using data from Johns Hopkins to create this graphs to show case how and when the US become the epicenter of the pandemic.
+
+
+![Crepe](/img/Screen Shot 2020-05-02 at 4.33.30 PM.png){: .center-block :}
+A simple sad graph showcasing from day one of this tragedy until May first!
+
+![Crepe](/img/Screen Shot 2020-05-02 at 4.34.19 PM.png){: .center-block :}
+30 Countries where we've seen the most cases.
+ 
+
+### Predictive Model at 87%###
+
+I wish I could share this model's result with people asking to open America again!
+We have seen so many protests asking for Freedom! please. over 60k people have lost their lives.
+Stay home and be safe.
+
+![Crepe](/img/Screen Shot 2020-05-02 at 4.34.06 PM.png){: .center-block :}
+From 3/19/20 to 5/1/20
+
+
+
+
+_Sources_: [Johns Hopkins](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
+
+
+
+
+
+
+
+
