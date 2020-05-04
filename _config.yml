@@ -30,6 +30,7 @@ navbar-links:
   - Symphinity: "https://symphinity-landing.netlify.com"
   
   Resources:
+  - FASTAI: "https://www.fast.ai"
   - NOOA: "https://www.ndbc.noaa.gov/historical_data.shtml#cwind"
   - NASA: "http://oceanmotion.org/html/background/upwelling-and-downwelling.htm"
   - ARGO: "https://argo.nullschool.net/#current/ocean/primary/waves/overlay=currents/orthographic=-105.12,25.28,817"
