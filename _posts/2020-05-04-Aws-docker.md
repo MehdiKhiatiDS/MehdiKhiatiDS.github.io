@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Computer Vision!
-subtitle: AWS could be a hassle to deploy, have you tried Docker! Worked for me like a charm.
+subtitle: AWS can be a hassle to deploy, have you tried Docker! Worked for me like a charm.
 
 ---
 
