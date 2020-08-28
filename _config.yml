@@ -23,6 +23,7 @@ navbar-links:
   
   About Me: "aboutme"
   Try My Apps: 
+  - Fatalities Rate Ca: "https://public.tableau.com/shared/FTMY63J3X?:display_count=y&:origin=viz_share_link"
   - Analytica Covid-19: "https://public.tableau.com/views/AnalyticaCovid-19Tableau/CasesAnalysis?:language=en&:display_count=y&publish=yes&:origin=viz_share_link"
   - OCEANAI17: "http://oceanai17.herokuapp.com/predictions"
   - Streetsmart17: "http://mehdi17.us-west-1.elasticbeanstalk.com"
