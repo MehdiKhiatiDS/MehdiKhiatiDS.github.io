@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Churn Predictions a 97%!
-subtitle: How can Precision and Recall be used in Marketing Mix Modeling... Read to find out...
+subtitle: A take on how Precision and Recall can be used in Marketing Mix Modeling...
 
 ---
 #### Features preprocess:
