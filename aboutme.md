@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Data Scientist - Mentor - Environmentalist
+subtitle: Data Scientist - Machine Learning Engineer - Mentor
 ---
 
 My name is Mehdi and I started this journey to have a bigger impact on humanity. If I can help ease up a process or solve an issue, I would love to work with you. 
