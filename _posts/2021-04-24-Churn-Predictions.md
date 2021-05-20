@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Churn Predictions a 97%, you bet!
-subtitle: How can you use Precision and Recall to blow minds?
+title: Churn Predictions a 97%!
+subtitle: How can Precision and Recall be used in Marketing Mix Modeling... Read to find out...
 
 ---
 #### Features preprocess:
